@@ -26,7 +26,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002473315422"))
 OWNER_ID = int(os.environ.get("OWNER_ID", "7040944963"))
 
 #Port
-PORT = os.environ.get("PORT", "1041")
+PORT = os.environ.get("PORT", "1044")
 
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Angoor:Angoor8080@cluster0.3gbra.mongodb.net/?retryWrites=true&w=majority")
